@@ -1,0 +1,10 @@
+ultralytics
+scipy
+torch
+torchvision
+transformers
+pillow
+numpy
+gradio
+opencv-python-headless
+spaces
